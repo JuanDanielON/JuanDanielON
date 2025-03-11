@@ -19,12 +19,12 @@ I am currently looking for a job,<br>I am a backend programmer analyst, engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDanielON&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+<p align="justify">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/320px-JavaScript-logo.png" />
 </p>
 
 ## 🛠️ SOFTWARE SKILLS  
-<p align="center">  
+<p align="justify">  
 <b>Languages:</b> English level B2  
 <b>Databases:</b> SQL (Advanced), Oracle DB (Intermediate)  
 <b>ERP & Enterprise Software:</b> SAP (Basic)  
