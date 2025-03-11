@@ -1,11 +1,8 @@
 # 💫 About Me:
-- 🔭 I'm currently working at SAMEX Tijuana
-- 🌱 I'm currently learning Python
-- 👯 I'm looking to collaborate at Innovery Santander
-- 🤔 I'm looking for a job
-- 💬 Ask me about SQL
-- 📫 How to contact me: jdon.12ocamp@gmail.com
-- 😄 Pronouns: Juan 
+👋 Hi, I'm Juan!  
+💼 Backend Programmer & Systems Engineer | 5+ years of experience  
+🔍 Looking for new opportunities | Specializing in Python, C#, SQL, and Oracle  
+📩 Contact me: jdon.12ocamp@gmail.com  
 HELLOW!
 Im Juan.
 I am currently looking for a job,<br>I am a backend programmer analyst, engineer and systems technician, database developer programmer, looking to collaborate and improve my programming skills in python and C#.<br>In 5 years of experience in the IT technology sector, I have developed and improved<br>production systems with business models with entity languages ​​such as cobol and 4gl.<br>With more years of experience in SQL and Oracle database ETL processes.
@@ -22,10 +19,20 @@ I am currently looking for a job,<br>I am a backend programmer analyst, engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDanielON&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+SOFTWARE SKILLS
+Languages! = English level B2
+• Databases: SQL (Advanced), Oracle DB (Intermediate)
+• ERP & Enterprise Software: SAP (Basic)
+• Networks & Security: FortiClient VPN (Intermediate)
+• Office Automation: Microsoft Office 365 (Intermediate), Excel (Intermediate)
+• Operating Systems: Linux (Intermediate)
+HARDWARE SKILLS
+• NETWORKS [ADVANCED]
+• MAINTENANCE [ADVANCED]
+• COMPUTER INSTALLATION [ADVANCED]
+• TECHNOLOGY SERVICES EQUIPMENT [INTERMEDIATE]
 ---
-[![](https://visitcount.itsvg.in/api?id=JuanDanielON&icon=1&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
