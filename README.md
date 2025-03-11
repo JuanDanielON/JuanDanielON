@@ -19,18 +19,27 @@ I am currently looking for a job,<br>I am a backend programmer analyst, engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDanielON&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-SOFTWARE SKILLS
-Languages! = English level B2
-• Databases: SQL (Advanced), Oracle DB (Intermediate)
-• ERP & Enterprise Software: SAP (Basic)
-• Networks & Security: FortiClient VPN (Intermediate)
-• Office Automation: Microsoft Office 365 (Intermediate), Excel (Intermediate)
-• Operating Systems: Linux (Intermediate)
-HARDWARE SKILLS
-• NETWORKS [ADVANCED]
-• MAINTENANCE [ADVANCED]
-• COMPUTER INSTALLATION [ADVANCED]
-• TECHNOLOGY SERVICES EQUIPMENT [INTERMEDIATE]
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
+
+## 🛠️ SOFTWARE SKILLS  
+<p align="center">  
+<b>Languages:</b> English level B2  
+<b>Databases:</b> SQL (Advanced), Oracle DB (Intermediate)  
+<b>ERP & Enterprise Software:</b> SAP (Basic)  
+<b>Networks & Security:</b> FortiClient VPN (Intermediate)  
+<b>Office Automation:</b> Microsoft Office 365 (Intermediate), Excel (Intermediate)  
+<b>Operating Systems:</b> Linux (Intermediate)  
+</p>
+
+## 🔧 HARDWARE SKILLS  
+<p align="center">  
+<b>NETWORKS:</b> Advanced  
+<b>MAINTENANCE:</b> Advanced  
+<b>COMPUTER INSTALLATION:</b> Advanced  
+<b>TECHNOLOGY SERVICES EQUIPMENT:</b> Intermediate  
+</p>
 ---
 
 
